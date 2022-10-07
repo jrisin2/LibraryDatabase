@@ -1,0 +1,6 @@
+CREATE TABLE BookCatalogue(  
+    ISBN INT NOT NULL PRIMARY KEY,
+    Book_Title VARCHAR(20) NOT NULL,
+    Book_Author VARCHAR(20) NOT NULL,
+    Book_Genre VARCHAR(20) NOT NULL
+);

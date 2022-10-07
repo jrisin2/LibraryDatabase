@@ -1,0 +1,5 @@
+CREATE TABLE PhysicalBook(  
+    Book_ID INT NOT NULL PRIMARY KEY,
+    ISBN INT NOT NULL,
+    FOREIGN KEY (ISBN) REFERENCES BookCatalogue(ISBN)
+);

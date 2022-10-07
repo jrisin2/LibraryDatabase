@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Jules/Documents/NetBeansProjects/LibraryProject/src/entity/DAO.java</file>
+            <file>file:/C:/Users/Jules/Documents/NetBeansProjects/LibraryProject/src/program/Main.java</file>
+            <file>file:/C:/Users/Jules/Documents/NetBeansProjects/LibraryProject/src/db/migrations/V2__Create_BookCatalogue_table.sql</file>
+            <file>file:/C:/Users/Jules/Documents/NetBeansProjects/LibraryProject/src/core/DB.java</file>
+            <file>file:/C:/Users/Jules/Documents/NetBeansProjects/LibraryProject/src/entity/PhysicalBookDAO.java</file>
+            <file>file:/C:/Users/Jules/Documents/NetBeansProjects/LibraryProject/src/entity/Checkout.java</file>
+            <file>file:/C:/Users/Jules/Documents/NetBeansProjects/LibraryProject/src/entity/CheckoutDAO.java</file>
+            <file>file:/C:/Users/Jules/Documents/NetBeansProjects/LibraryProject/src/db/migrations/V1__Create_Member_table.sql</file>
+            <file>file:/C:/Users/Jules/Documents/NetBeansProjects/LibraryProject/src/entity/BookCatalogue.java</file>
+            <file>file:/C:/Users/Jules/Documents/NetBeansProjects/LibraryProject/src/entity/BookCatalogueDAO.java</file>
+            <file>file:/C:/Users/Jules/Documents/NetBeansProjects/LibraryProject/src/entity/Member.java</file>
+            <file>file:/C:/Users/Jules/Documents/NetBeansProjects/LibraryProject/src/entity/MemberDAO.java</file>
+            <file>file:/C:/Users/Jules/Documents/NetBeansProjects/LibraryProject/src/entity/PhysicalBook.java</file>
+            <file>file:/C:/Users/Jules/Documents/NetBeansProjects/LibraryProject/src/db/migrations/V3__Create_PhysicalBook_table.sql</file>
+            <file>file:/C:/Users/Jules/Documents/NetBeansProjects/LibraryProject/src/db/migrations/V4__Create_Checkout_table.sql</file>
+        </group>
+    </open-files>
+</project-private>
